@@ -1,0 +1,22 @@
+site_name: Data Structures Python
+site_description: "Educational package implementing data structures in Python"
+repo_url: https://github.com/CodeWithSagomb/data-structures-python
+
+nav:
+  - welcomes: index.md
+  - Installation: installation.md
+  - "User Guide": usage.md
+  - Modules:
+      - Array: modules/array.md
+      - Stack: modules/stack.md
+      - Queue: modules/queue.md
+      - Linked List: modules/linked_list.md
+      - Binary Tree: modules/tree.md
+      - Graph: modules/graph.md
+  - License: license.md
+
+theme:
+  name: material
+
+
+
